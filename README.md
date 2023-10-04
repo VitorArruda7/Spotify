@@ -17,7 +17,7 @@
 
 ## 📍 Projeto
 
-A ideia do projeto é pegar uma playlist da applemusic com 647 musicas em formato json, filtrar os dados necessários do json, usar a API do Spotify para criar uma playlist para o usuário da forma que desejar e depois adicionar todas as musicas da applemusic para a playlist criada no spotify. Tendo em vista que o número de músicas pode ser facilmente alterado mudando alguns detalhes no código, onde a cada 100 musicas tem que se fazer um novo laço. O arquivo musicas.json é um exemplo curto de json que poderia ser utilizado para fazer esse processo.
+A ideia do projeto é pegar uma playlist da Apple Music com 647 musicas em formato json, filtrar os dados necessários do json, usar a API do Spotify para criar uma playlist para o usuário da forma que desejar e depois adicionar todas as musicas da Apple Music para a playlist criada no Spotify. Tendo em vista que o número de músicas pode ser facilmente alterado mudando alguns detalhes no código, onde a cada 100 musicas tem que se fazer um novo laço. O arquivo musicas.json é um exemplo curto de json que poderia ser utilizado para fazer esse processo.
 
 ---
 
