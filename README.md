@@ -3,7 +3,7 @@
 
 <br> Projeto Spotify
 </h1>
-<h3>◦ Ferramantas utilizdas.</h3>
+<h3>◦ Ferramantas utilizadas.</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style&logo=Python&logoColor=white" alt="Python" />
